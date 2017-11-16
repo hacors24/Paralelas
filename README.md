@@ -1,2 +1,0 @@
-# Paralelas
-Paralelas 
